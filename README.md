@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Purpose
+**This project demonstrates the use of next-intl package to enable multilingual support bu following steps described in [doc](https://next-intl.dev/docs/getting-started/app-router/with-i18n-routing) for next-intl**
+
+***current: uses i18n with routing***
+
+*other option: without i18n routing*
+
 ## Getting Started
 
 First, run the development server:
