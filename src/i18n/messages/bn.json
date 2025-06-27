@@ -1,8 +1,10 @@
 {
     "HomePage": {
-        "title": "Welcome to our website!"
+      "title": "আমাদের ওয়েবসাইটে আপনাকে স্বাগতম!",
+      "about": "আমাদের সম্পর্কে"
     },
     "AboutPage": {
-        "title": "About us"
+      "title": "আমাদের সম্পর্কে",
+      "home": "হোম"
     }
-}
+  }

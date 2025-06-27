@@ -1,8 +1,10 @@
 {
     "HomePage": {
-        "title": "Welcome to our website!"
+      "title": "Bienvenue sur notre site web !",
+      "about": "À propos de nous"
     },
     "AboutPage": {
-        "title": "About us"
+      "title": "À propos de nous",
+      "home": "Accueil"
     }
-}
+  }
